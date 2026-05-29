@@ -1,0 +1,6 @@
+{
+  "name": "Trading Calculator",
+  "description": "A professional and beginner-friendly Trading Calculator for calculating Position Size, Risk to Reward ratios, Profit & Loss, Leverage, and Compounding with interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
